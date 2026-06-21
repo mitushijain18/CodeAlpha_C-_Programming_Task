@@ -1,4 +1,4 @@
-# CGPA Calculator Using C Programming
+# CGPA Calculator Using C++ Programming
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ The main objectives of this project are:
 
 ## Technologies Used
 
-- C Programming Language
+- C++ Programming Language
 - GCC Compiler
 - VS Code / Code::Blocks
 - Git & GitHub
@@ -69,7 +69,7 @@ CGPA = Total (Grade Point × Credit) / Total Credit
 
 CGPA-Calculator
 
-- cgpa_calculator.c
+- cgpa_calculator.cpp
 - Output_Screenshots
 - Documentation
 - README.md
@@ -81,4 +81,4 @@ CGPA-Calculator
 2. Compile the program:
 
 ```bash
-gcc cgpa_calculator.c -o cgpa
+gcc cgpa_calculator.cpp -o cgpa
