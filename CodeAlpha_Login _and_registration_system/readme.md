@@ -1,4 +1,4 @@
-# Login and Registration System Using C Programming
+# Login and Registration System Using C++ Programming
 
 ## Project Overview
 
@@ -27,7 +27,7 @@ The main objectives of this project are:
 - C Programming Language
 - GCC Compiler
 - VS Code / Code::Blocks
-- File Handling in C
+- File Handling in C++
 
 ## Concepts Used
 
@@ -100,7 +100,7 @@ Handles:
 
 Login-Registration-System
 
-- login_registration.c
+- login_registration.cpp
 - users.txt
 - Output_Screenshots
 - Documentation
@@ -113,4 +113,4 @@ Login-Registration-System
 2. Compile the program:
 
 ```bash
-gcc login_registration.c -o login
+gcc login_registration.cpp -o login
