@@ -1,4 +1,4 @@
-# Sudoku Solver Using C Programming
+# Sudoku Solver Using C++ Programming
 
 ## Project Overview
 
@@ -89,7 +89,7 @@ The solution ensures that:
 
 Sudoku-Solver
 
-- sudoku_solver.c
+- sudoku_solver.cpp
 - Input_Output
 - Output_Screenshots
 - Documentation
@@ -97,9 +97,9 @@ Sudoku-Solver
 
 ## How to Run the Project
 
-1. Install a C compiler such as GCC.
+1. Install a C++ compiler such as GCC.
 
 2. Compile the program:
 
 ```bash
-gcc sudoku_solver.c -o sudoku
+gcc sudoku_solver.cpp -o sudoku
